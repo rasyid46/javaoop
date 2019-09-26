@@ -1,6 +1,4 @@
- 
-public class Kucing extends Hewan {
-
+ public class Kucing extends Hewan {
     @Override
     public String getGreeting(){
         return "meong";

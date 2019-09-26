@@ -6,7 +6,7 @@ public class  Ruang  {
    }
 
    int hitungLuas(){ // method function yang menggembaikan nilai
-      return luas = sisi * sisi; //pakai return supaya haris balikan nilai bisa di proses pada fungsi mainnya
+      return luas = sisi * sisi; //pakai return supaya harus balikan nilai bisa di proses pada fungsi mainnya
    }
 
    void cetakLuas(){ //method prosedural

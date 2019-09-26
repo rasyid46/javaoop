@@ -1,9 +1,9 @@
 public class PenggunaanOverriding {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+       
         Binatang b = new Binatang();
         Mamalia m = new Mamalia();
-        Binatang bm = new Mamalia();
+        Binatang bm = new Binatang();
         
         b.begerak();
         m.begerak();

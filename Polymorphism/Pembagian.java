@@ -11,7 +11,7 @@ class Pembagian {
     public static void main(String args[]) {
        Pembagian pem  = new Pembagian();
        int bagiPositif = pem.hitungBagi(6, 2);
-       double bagiDouble =  pem.hitungBagi(11,3);
+       double bagiDouble =  pem.hitungBagi(11.1,3.1);
        System.out.println("Hasil bilangan int "+bagiPositif);
        System.out.println("Hasil bilangan decimal "+ bagiDouble+"");
     }

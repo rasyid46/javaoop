@@ -1,4 +1,4 @@
-public class LaporanTahunan implements CetakLaporan{
+class LaporanTahunan implements CetakLaporan{
     public void cetakA4(){
         System.out.println("Cetak Laporan di A4");
     }
